@@ -2,7 +2,7 @@
 ### _Your one and only gifting site_ 1️⃣
 ## By the _Girl Devs_ 👩🏻‍💻
 
-
+![GifteryGitHubLogo](https://user-images.githubusercontent.com/115913356/197172583-8ce224a7-e47d-4100-8fae-d8666ce5cbe1.png)
 
 - ✨By Poonam Thakur, Bhavya Hari, Antara Das, Rishi Urode & Ayush Kumar✨
 
@@ -29,11 +29,25 @@ Connect with us :
 
 ## Project Preview
 
-Demo Video (YouTube link): [Youtube-Video-Preview-Giftery]
+### Demo Video (YouTube link): [Youtube-Video-Preview-Giftery]
 
-Image (Screenshots) preview :
+### Image (Screenshots) preview :
 
+<img width="1440" alt="Screenshot 2022-10-20 at 4 38 04 PM" src="https://user-images.githubusercontent.com/115913356/197172687-6bb286d1-76db-48d5-9fea-e068a1c362c3.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 38 13 PM" src="https://user-images.githubusercontent.com/115913356/197172699-de17d9cd-9918-43c9-bb20-6f53f2f6b259.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 38 19 PM" src="https://user-images.githubusercontent.com/115913356/197172710-6b5e4426-2ad1-4aee-b915-2b8dfc53e87e.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 38 23 PM" src="https://user-images.githubusercontent.com/115913356/197173261-e0332405-0544-4108-9871-01cdf9d099cf.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 38 34 PM" src="https://user-images.githubusercontent.com/115913356/197173087-d8705886-a7e8-4e9b-837d-e6b4518a55ea.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 38 43 PM" src="https://user-images.githubusercontent.com/115913356/197173284-dba39834-8e28-4d5c-bd9d-30ed295e8c2f.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 39 03 PM" src="https://user-images.githubusercontent.com/115913356/197173323-eff41e82-f25a-4ee9-8a23-a15095a6ea6b.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 39 14 PM" src="https://user-images.githubusercontent.com/115913356/197173330-2b86e18f-1899-4d94-a9c0-cfe6fdf0d4c4.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 39 55 PM" src="https://user-images.githubusercontent.com/115913356/197173343-62dd95ad-36b0-48f3-8245-5d4c09d386dd.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 40 04 PM" src="https://user-images.githubusercontent.com/115913356/197173363-d6606b5e-e6ba-4a76-ac05-464b88b69d4e.png">
+<img width="1440" alt="Screenshot 2022-10-20 at 4 40 10 PM" src="https://user-images.githubusercontent.com/115913356/197173523-a2e2600e-91c5-485c-86d8-c2576d32f0aa.png">
 
+### Admin Page Showing the order just placed :
+
+<img width="1440" alt="Screenshot 2022-10-20 at 4 45 07 PM" src="https://user-images.githubusercontent.com/115913356/197173384-2616f8d8-8321-45b9-88d8-24a2268beaf7.png">
 
 ## Installation - Medusa - Get started in minutes
 
