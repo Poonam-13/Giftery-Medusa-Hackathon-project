@@ -84,7 +84,7 @@ const FooterNav = () => {
             <ul className="grid grid-cols-1 gap-y-2">
               <li>
                 <a
-                  href="https://github.com/AyushSahu7477"
+                  href="https://github.com/medusajs"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -102,7 +102,7 @@ const FooterNav = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/AyushSahu7477/Giftery-Medusa-Hackathon-Project.git"
+                  href="https://github.com/Poonam-13/Giftery-Medusa-Hackathon-project"
                   target="_blank"
                   rel="noreferrer"
                 >
