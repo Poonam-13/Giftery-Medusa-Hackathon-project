@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@hookform/error-message": "^2.0.0",
-    "@medusajs/medusa": "^1.4.1",
+    "@medusajs/medusa": "^2.0.0",
     "@radix-ui/react-accordion": "^0.1.6",
     "@radix-ui/react-avatar": "^0.1.3",
     "@radix-ui/react-collapsible": "^0.1.5",
@@ -32,7 +32,7 @@
     "copy-to-clipboard": "^3.3.1",
     "crypto-browserify": "^3.12.0",
     "emoji-picker-react": "^3.5.0",
-    "gatsby": "^4.4.0",
+    "gatsby": "^5.14.6",
     "gatsby-plugin-create-client-paths": "^4.4.0",
     "gatsby-plugin-manifest": "^4.4.0",
     "gatsby-plugin-react-helmet": "^5.4.0",
